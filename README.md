@@ -1,1 +1,1 @@
-# nextJs-demos
+# implement my own ssr to further understand nextjs
