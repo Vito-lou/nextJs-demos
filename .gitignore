@@ -1,2 +1,4 @@
 node_modules
 pnpm-lock.yaml
+ssr-implement/public/*
+ssr-implement/build/*
