@@ -27,4 +27,5 @@ The providers option is an array where you list different login options. For now
     },
   },
   providers: [], // Add providers with an empty array for now
+  trustHost: true
 } satisfies NextAuthConfig;
